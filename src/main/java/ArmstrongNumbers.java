@@ -10,6 +10,7 @@ class ArmstrongNumbers {
 		if(sum == numberToCheck)
 			return true;
 		return false;
+		//qwerty
 	}
 
 }
