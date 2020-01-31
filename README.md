@@ -1,2 +1,2 @@
 # armstrongNumber
-It checks armstrong no
+It checks if the number is armstrong number
